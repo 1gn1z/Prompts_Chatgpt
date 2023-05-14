@@ -1,0 +1,18 @@
+# Prompt 1 #
+
+TEMA_GENERAL = Hacking ético
+Crea un temario completo, organizado y con descripciones precisas, como si fueran notas de estudio, este temario debe incluir tareas puntuales para aprender [TEMA_GENERAL], 
+que incluya los conceptos básicos de redes y protocolos que se deben aprender, así como sistemas operativos, lenguajes de programación y scripting, las fases de metodologías de pentesting como OSSTMM, 
+herramientas populares más usadas, vulnerabilidades comunes y su explotación, prácticas en laboratorios y certificaciones relevantes. Asegúrate de estructurar el temario de manera clara y concisa.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Prompt 2 #
+
+NUMERO_PREGUNTAS = 20
+TEMA_A_APRENDER = Nmap
+Genera [NUMERO_PREGUNTAS] abiertas y reflexivas, siguiendo el método socrático, para enseñarme sobre [TEMA_A_APRENDER]. 
+Espera a que yo responda cada pregunta antes de proseguir. Inicia con preguntas teóricas y evoluciona hacia conceptos clave y contenidos técnicos relacionados con [TEMA_A_APRENDER]. 
+A medida que responda, incrementa la profundidad y complejidad de las preguntas basándote en las respuestas previas, hasta llegar a la pregunta número [NUMERO_PREGUNTAS]. 
+Cada pregunta debe contribuir a construir un conocimiento integral que permita aplicar [TEMA_A_APRENDER] en el ámbito laboral.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
